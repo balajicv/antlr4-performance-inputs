@@ -16,3 +16,12 @@
 [submodule "skywalking"]
 	path = skywalking
 	url = git@github.com:apache/skywalking.git
+[submodule "git"]
+	path = git
+	url = https://github.com/git/git.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/ruby/ruby.git
+[submodule "cpython"]
+	path = cpython
+	url = https://github.com/python/cpython.git
