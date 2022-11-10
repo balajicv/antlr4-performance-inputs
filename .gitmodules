@@ -31,3 +31,12 @@
 [submodule "obs-studio"]
 	path = obs-studio
 	url = https://github.com/obsproject/obs-studio.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "coturn"]
+	path = coturn
+	url = https://github.com/coturn/coturn.git
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/sqlite/sqlite.git
